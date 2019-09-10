@@ -1,0 +1,47 @@
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover, 
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active
+{
+    background-color: #721888
+}
+
+#scroll-up:hover
+{
+    background: #721888;
+    color: #fff;
+}
+
+
+.navbar-inverse .navbar-brand span,
+.option-box .color-option,
+.about h1 span,.footer h3,
+.testimonials span,
+.footer .copy-right span,
+.features .feat span.glyphicon,
+.option-box .gear-check,
+#scroll-up, .about-up h1,
+.about-features h3,
+.about-ceo .h1,
+.faq h1
+
+{
+    color: #721888
+}
+
+.dropdown-menu
+{
+    border-top: 3px solid #721888;
+}
+
+
+.option-box .color-option,
+.testimonials .carousel-indicators li.active
+{
+    border: 3px solid #721888;
+}
+
+
+
