@@ -1,0 +1,484 @@
+/*VNqAVXO0C5o5mV2uB4*/
+
+* {
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+    font-family: Comic Sans MS;
+    
+}
+
+.cont { width: 1470px; margin: auto;}
+
+.bottonss {
+    background: #808; 
+    color: #fff;
+    border-radius: 30px;
+    width: 130px
+}
+.bottonss:hover {
+    background: #a709a7;
+}
+
+.looon {
+    color: #43426A;
+}
+
+.fontes {
+     font-size: 100px;
+}
+
+.backed {
+    background: #fae1fa
+}
+
+
+/* start st*/
+
+.st {
+    
+    height: 300px;
+    min-width: 1440px;
+   
+}
+
+
+
+.st .cont .log {
+    text-align: center;
+    margin:20px auto ;
+    font-size: 100px;
+    border: 2px solid #808;
+    border-radius: 60px 60px 60px 60px;
+    width: 920px;
+
+ 
+    
+}
+
+/* end st*/
+
+/* start time */
+
+.time {
+   
+    width: 100%;
+    height: 200px;
+    padding-right: 50px;
+    
+}
+
+.date {
+    
+    margin-top: 20px;
+    position: relative;
+    bottom: 120px;
+}
+
+
+.date ul {
+    
+    text-align: center;
+    margin-bottom: -30px
+}
+.date ul li {
+    display: inline-block;
+    border: 4px solid #808;
+    height: 75px;
+    width: 140px;
+    list-style-type: none;
+    padding-top: 11px;
+    border-radius:  25px 25px 25px 25px;
+    margin: -10px -5px -11px -2pxp;
+    font-size: 30px
+}
+
+/*End time*/
+
+/*start sc */
+
+.sc {
+
+    width: 100%;
+}
+
+.sc .cont {
+      background-image: url('site.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    height: 1100px;
+}
+
+
+@media only screen and ( max-width: 7024px ) {
+
+    .sc {
+        height: 1100px;
+        margin-bottom: 50px;
+    }
+}
+
+
+
+.sc .cont form {
+    
+    text-align: center;
+    position: relative;
+    min-width: 335px;
+    max-width: 555px;
+    margin: auto;
+    top: 400px;
+    right: 310px;
+}
+
+.bottonss:hover {
+    background: #c764c7;
+}
+
+
+ div fieldset {
+     padding: 1px 1px 1px 1px;
+}
+
+.sc .froms label {
+    
+    padding: 10px 1px 5px 1px ;
+    margin: auto
+}
+
+div .namess {
+   padding: 13px 110px 10px 14px;
+
+}
+
+div .dates {
+    padding: 9px 70px 8px 130px
+}
+
+div .ask {
+    padding: 10px 120px 11px 166px;
+    margin-bottom: 10px
+}
+
+div .bntss {
+    width: 95%;
+    margin: 10px 0 10px 
+}
+div input {
+    
+    display: block;
+    margin: 10px auto;
+    padding: 15px 100px 15px 10px;
+    border: 2px solid #808;
+    border-radius: 70px 70px 70px 70px;
+}
+
+
+.button {
+    
+    padding: 25px 25px 25px 25px 
+}
+
+
+/* end sc */
+
+/* start thr */
+
+.thr {
+ 
+    height: 1850px;
+    width: 100%;
+}
+
+.part1 {
+    height: 110px;
+    padding-top: 45px
+}
+
+.part1 h1 {
+    text-align: center;
+    border: 3px solid #808;
+    border-radius: 30px 30px 30px 30px;
+    width: 252px;
+    margin: auto;
+    height: 90px;
+    padding-top:20px
+}
+
+
+
+.thr .hello {
+     
+    margin: 50px 25px 0 25px;
+    height: 200px;
+    border: 2px solid #808;
+    border-radius: 25px 25px 25px 25px;
+    font-size: 45px;
+}
+
+.thr #arts {
+    
+    margin: 5px 5px 5px 5px;
+    font-size: 50px;
+    
+}
+
+.thr .result {
+    height: 300px;
+    margin: 50px -115px 0 155px;
+}
+
+.thr .cont .ega {
+    
+    height: 200px;
+    width: 100%;
+    margin-top: 50px;
+    text-align: center
+}
+
+.thr .cont .ega .frist {
+    padding: 10px 0 15px;
+    border: 3px solid #808;
+    border-radius: 25px;
+    width: 225px;
+    margin: 20px auto
+}
+
+thr .cont .ega span {
+    color: #635248;
+    position: relative;
+    
+}
+
+.thr .cont .ega .years {
+   
+    width: 5px;
+    left: 204px;
+    position: relative;
+}
+
+.thr .cont .ega .months {
+   left: 23px;
+    position: relative;
+}
+
+.thr .cont .ega .days {
+    right: 165px;
+    position: relative;
+}
+
+.thr .cont .ega ul {
+    
+    margin: 20px auto
+}
+
+
+.thr .cont .ega ul li {
+    
+    display: inline-block;
+    border: 4px solid #808;
+    height: 75px;
+    width: 140px;
+    list-style-type: none;
+    padding-top: 5px;
+    border-radius:  25px 25px 25px 25px;
+    margin: -10px -5px -11px -2px;
+    font-size: 40px
+}
+
+
+
+
+
+.result .ul {
+    text-align: center
+}
+
+.result .ul span {
+    
+    position: relative;
+    
+}
+.result .ul .mm {
+    
+    right: 340px;
+}
+
+.result .ul .dd {
+    right: 205px;
+}
+
+.result .ul .hh {
+    right: 60px
+}
+.result .ul .tt {
+    left: 73;
+}
+
+.result .li span {
+    position: relative;
+}
+
+.result .li .mm {
+    
+    left: 75px;
+}
+.result .li .dd {
+    left: 145px;   
+}
+.result .li .hh {
+    left: 205px
+}
+.result .li .tt {
+    left: 275px;
+}
+
+result .res ul {
+    margin: auto;
+}
+
+
+
+.result .res ul li {
+    margin: 30px 84px 1px 85px;
+    padding-top: 40px;
+    display: inline-block;
+    border: 2px solid #808;
+    border-radius: 25px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    box-shadow: 10px 10px 5px #CCC;
+    transition: all .5s ease-in-out;
+}
+
+.result .res ul li:hover {
+    transform: rotatez(360deg)
+}
+#container {
+    text-align: center   
+}
+
+.sca {
+    padding-left: 30px;
+    border: 1px solid #808;
+    width: 380px;
+    margin-left: 36px;
+    margin-bottom: 0px;
+    border-radius: 20px 20px 0 0
+}
+
+.ather {
+    height: 150px;
+    padding: 20px 10px 10px 30px;
+    border: 2px solid #808;
+    width: 95%;
+    margin: auto;
+    
+    font-size: 30px;
+    line-height: 20px;
+}
+
+#thi {
+    padding: 30px;
+}
+
+.ather div {
+    padding-bottom: 20px;
+    font-size: 30px; 
+    line-height: 20px; 
+}
+
+
+#container button {
+    color: #000;
+    margin-top: 15px
+}
+/*end thr*/
+
+/* start comment */
+
+.comment {
+    height: 550px
+}
+
+.comment form {
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+.comment form label {
+    display: block;
+    font-size: 30px;
+    width: 150px;
+    border: 2px solid #808;
+    border-radius: 25px;
+    margin: auto
+}
+.comment form textarea {
+    width: 45%;
+    height: 320px;
+    margin: 30px 10px 10px 100px ;
+    resize: none;
+    border: 2px solid #808;
+    border-radius: 25px;
+    padding: 30px;
+    font-size: 50px;
+}
+
+.comment form .zero {
+    
+    padding:10px 15px 10px 15px;
+    position: relative;
+    top: 50px;
+    right: 390px;
+    
+}
+
+/* end comment */
+
+/*start end */
+.footer {
+    height: 110px;
+
+}
+.footer .copy {
+    
+    float: right;
+    width: 50%;
+   
+    height: 100%;
+    padding-top: 40px
+}
+
+.footer .copy  .tri {
+    text-align: center;
+ 
+}
+.footer .copy .icon {
+      text-align: center;
+}
+
+.footer .copy .icon i {
+    color: #43426A
+}
+
+.footer .copy .icon i:hover {
+    background: #fff;
+}
+
+
+.footer .me {
+    width: 50%;
+    text-align: center;
+    padding-top: 25px;
+}
+.me p {
+    line-height: 10px
+  
+}
+/*end end */
+
+

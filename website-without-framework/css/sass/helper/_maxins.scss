@@ -1,0 +1,7 @@
+@mixin prefixer ($proparty, $value, $prefixes: ()) {
+
+  @each $prefixe in $prefixes {
+    #{'-' + $prefixe + '-' + $proparty}: $value;
+  }
+  #{$proparty}: $value;
+}

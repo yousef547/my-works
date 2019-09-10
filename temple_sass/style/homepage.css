@@ -1,0 +1,88 @@
+/* start header */
+@media (min-width: 992px) {
+  .header .logo {
+    float: right;
+    /* direction*/
+    text-align: right;
+  }
+}
+.header .logo .the-toggler {
+  right: auto;
+  left: 15px;
+}
+@media (min-width: 992px) {
+  .header .navbar {
+    float: right;
+    /* direction*/
+  }
+}
+.header .navbar li {
+  float: right;
+}
+@media (max-width: 767px) {
+  .header .navbar li {
+    text-align: right;
+  }
+}
+
+/* end header */
+@media (min-width: 992px) {
+  .services .services-box {
+    float: right;
+  }
+}
+
+/* end services */
+/* start Our playres */
+@media (max-width: 991px) {
+  .our-players .players-box {
+    float: right;
+  }
+}
+@media (min-width: 992px) {
+  .our-players .players-box {
+    float: right;
+  }
+}
+
+/* end Our playres */
+/* start lorum ipsum */
+.loremipsum .lorem-box {
+  float: right;
+}
+
+/* end lorum ipsum */
+/* start footer */
+.footer .gallery, .footer .info, .footer .contact {
+  float: right;
+}
+@media (min-width: 768px) {
+  .footer .gallery .img-box img {
+    float: right;
+  }
+}
+@media (min-width: 768px) {
+  .footer .gallery .img-box .text {
+    float: right;
+  }
+}
+.footer .copyright .copytext, .footer .copyright .author {
+  float: right;
+}
+@media (max-width: 991px) {
+  .footer .copyright .copytext, .footer .copyright .author {
+    text-align: center;
+  }
+}
+.footer .copyright .author {
+  text-align: left;
+}
+@media (max-width: 991px) {
+  .footer .copyright .author {
+    text-align: center;
+  }
+}
+
+/* end footer */
+
+/*# sourceMappingURL=homepage.css.map */

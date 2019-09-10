@@ -1,0 +1,446 @@
+.cont { width: 1470px; margin: auto;}
+
+.cc {
+    padding-bottom: 23px;
+}
+
+.fa-bus-alt {
+    padding-right: 10px;
+    color: #e7400e
+}
+
+.oo {
+    font-family: monospace;
+    font-size: 20px;
+    color: #7d7f8a
+
+}
+
+
+
+/* start nav */
+
+
+.one {
+    height:60px;
+    background: rgb(34, 34, 43);
+    margin-bottom: -16px;
+    
+    
+}
+
+@media only screen and ( min-width: 4024px ) {
+    
+    .one {
+        height: 4%;
+        margin-bottom: -32px;
+    }
+ }
+.one div {
+    background: rgb(34, 34, 43);
+    
+}
+.one .fri {
+    width: 50%;
+    
+}
+.one .fri h3 {
+    color: #cbcedb;;
+    padding-top: 18px;
+    font-size: 20px;
+    font-family: sans-serif;    
+}
+
+    
+
+.one .sc {
+    color: #fff;
+    float: right;
+    position: relative;
+    bottom: 55px;  
+}
+
+@media only screen and ( min-width: 4024px ) {
+    
+    .one .sc {
+        bottom: 80px;
+        
+    }
+ }
+.one .sc ul {
+    margin-top: 10px;
+    float: right;
+    color: #fff;
+    position: relative;
+    top: 2px
+}
+
+
+.one .sc ul li {
+    display: inline-block;
+    padding-right: 25px;
+}
+
+
+
+.thr {
+    height:80px;
+    background: #333438;
+    opacity: 0.9;
+    
+}
+.thr div {
+    background: #333438;
+    
+}
+.thr .fri {
+    width: 50%; 
+}
+
+.thr .fri ul{
+    padding: 30px 5px 0 0;
+    padding-top: 30px;
+    color: #838591 
+}
+.thr .fri ul li:hover {
+    color: #fff;
+}
+.thr .fri ul li {
+    display: inline-block;
+    padding-right: 40px
+}
+
+.thr .fri ul select {
+    border:1px solid #333438;
+    background: #333438;
+    color:#838591 ;
+    margin-right: 35px
+}
+.thr .fri ul select:hover{
+    color: white
+}
+
+.thr .sc {
+    float: right; 
+    position: relative;
+    bottom: 35;
+}
+
+@media only screen and ( min-width: 4024px ) {
+    
+    .thr .sc {
+        bottom: 70px;
+    }
+ }
+ 
+.thr .sc select {
+    
+    border:1px solid #333438;
+    background: #333438;
+    color:#fff 
+}
+header .slider {
+    background-image: url('log.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-color: #EEE;
+    height: 600px;
+    margin-top: -80px;
+    border-bottom: 10px solid #e7400e
+}
+
+header .slider .into  { 
+    padding-top: 250px; 
+    height:600px ;
+    color: #fff; 
+    text-align: center ;
+}   
+
+header .slider .into i {
+    position: relative;
+    color: #000;
+    top: -65PX;
+    border: 10px solid #000;
+    border-radius: 50%;
+    padding: 40px;
+    background: #fff;
+    opacity: 0.5;
+}
+/* end header */
+ 
+/* start contin */
+
+.contin h1 {
+    margin-top: 60px;
+}
+.contin .about {
+    width: 27%;
+    margin: 100px 0 0 35px;
+    display: inline-block;
+    margin-right: 55px
+}
+.contin .about i {
+    margin-left: 110px;
+    border: 1px solid #e7400e;
+    border-radius: 50%;
+    padding: 20px;
+    color: #fff;
+    background: #e7400e
+}
+
+@media only screen and ( max-width: 7024px ) {
+
+    .contin .cont {
+        width: 1670;
+        
+    }
+}
+
+
+
+.contin .read i {
+    border: 1px solid #e29b86;
+    color: #e7400e;
+    padding: 20px;
+    border-radius: 50%;
+    background: #e29b86;
+    margin-bottom: 20px;
+    position: relative;
+    bottom: 35px;
+}
+
+.contin .read div {
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.contin .read div h2 {
+    color: #e7400e;
+    margin-top: 50px;
+    margin-left: 65px;
+}
+.contin .read div p {
+    margin-top: 20px;
+    margin-left: 65px;
+}
+/* end contin */
+
+/* start travel */
+
+.travel {
+    background: #e9e9f2
+}
+
+
+
+.travel .ss1 {
+    width: 50%;
+    overflow: hidden;
+}
+.travel .ss1 h1 {
+    padding-top: 60px;
+}
+.travel .ss2{
+    width: 50%;
+    display: block;
+    float: right;
+    position: relative;
+    bottom: 65px;
+}
+.travel div button {
+    float: right;
+    padding: 10px 20px 10px 20px;
+    border: 2px solid #000;
+    border-radius: 15%;
+    cursor: pointer;
+    margin-right: 55px;
+
+}
+.travel .imge {
+    margin-top: 50px;
+}
+.travel .imge .folder {
+    width: 29.5%;
+    background: #fff;
+    display: inline-block;
+    padding-right: 3px;
+    margin: 0 50px 25px 0;
+    box-shadow: 10px 10px 5px rgb(143, 118, 118);
+}
+.travel .imge .folder img {
+    width: 436px;
+}
+
+.travel .imge .folder .dis {
+    padding: 0 10px 1px 10px;
+}
+.travel .imge .folder .dis .zz2 {
+    float: right;
+    position: relative;
+    bottom: 92px;
+    padding-right: 10px
+}
+.travel .imge .folder .dise {
+    padding: 0 0 1px 10px;
+}
+.travel .imge .folder .dise .zz4 {
+    float: right;
+    position: relative;
+    bottom: 62px;
+    left: 70px;
+}
+.travel .imge .folder .dise .zz4 span {
+    color: #e7400e;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+/* end travel */
+
+/* start footer */
+
+footer {
+    background: #28292e;
+    padding-top: 50px
+}
+footer .end {
+    height: 370px;
+}
+
+footer .end .so {
+    padding-bottom: 75px;
+    width: 24%;
+    display: inline-block
+
+}
+footer .end .so h3 {
+    padding-bottom: 20px;
+    color: #fff
+}
+footer .end .so p{
+    color: #838591;
+}
+footer .end .so p:hover {
+    color: #fff
+}
+
+footer .end .so p i {
+    margin-right: 20px;
+}
+
+footer .end .so .emg1 {
+    margin-bottom: 20px
+}
+footer .end .so .emg1 .ff1 img {
+    width: 25%;
+}
+footer .end .so .emg1 .ff2 {
+    width: 25%;
+    float: right;
+    position: relative;
+    right: 150px;
+    bottom: 108px;
+    line-height: 21.5px
+}
+
+footer .end .so .emg1 span {
+    float: right;
+    position: relative;
+    right: 90px;
+    bottom: 15px;
+}
+
+footer .end .so div h1 {
+    margin-top: 50px;
+    color: #fff;
+}
+footer .end .so div i {
+    padding-top: 10px;
+    position: relative;
+    top: 10px;
+    margin-right: 20px;
+    color: #838591;
+    background: #28292e
+}
+footer .end .so div i:hover {
+    color: #fff;
+}
+footer .end .so div button {
+    background: #28292e;
+    color: #fff;
+    padding: 5px;
+    margin-left:10px;
+    cursor: pointer;
+}
+footer hr {
+    color: #f00;
+    width: 100%
+}
+footer .hh {
+    height: 50px;
+}
+footer .hh .dd1 {
+    width: 30%;
+}
+footer .hh .dd1 h3 {
+    padding-bottom: 15;
+    color: #cbcedb;
+}
+footer .hh .dd2 {
+    width: 30%;
+    position: relative;
+    bottom: 70px;
+    float: right;
+    right: 290px;
+
+}
+
+footer .hh .dd2 i {
+    border: 1px solid #838591;
+    border-radius: 50%;
+    padding: 5px;
+    color: #838591;
+}
+footer .hh .dd3 {
+    width: 30%;
+    float: right;
+    position: relative;
+    left: 715px;
+    bottom: 65px;
+    color: #838591;
+
+
+/* end footer */
+
+/* start madia qurey*/
+
+/* Custom, iPhone Retina */ 
+
+    @media only screen and (min-width : 320px) {
+       .cont { width: 1070px; margin: auto;}
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+        .cont { width: 1070px; margin: auto;}
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+        ..cont { width: 1070px; margin: auto;}
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+       .cont { width: 1070px; margin: auto;}
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+        .cont { width: 1070px; margin: auto;}
+    }
+
+/* end madia qurey*/
